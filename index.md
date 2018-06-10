@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-This is another test change.
+This is a third test change.
 
 You can use the [editor on GitHub](https://github.com/wolfgang42/pages-test/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
